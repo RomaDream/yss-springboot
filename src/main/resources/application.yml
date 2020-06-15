@@ -1,0 +1,11 @@
+server:
+  port: 8843
+
+# JavaMailSender 邮件发送的配置
+spring:
+  mail:
+    host: smtp.qq.com
+    username: personalmessage@foxmail.com
+    password: 
+    default-encoding: UTF-8
+
