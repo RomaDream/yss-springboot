@@ -6,6 +6,7 @@ spring:
   mail:
     host: smtp.qq.com
     username: personalmessage@foxmail.com
+    #授权码，不是邮箱密码
     password: 
     default-encoding: UTF-8
 
